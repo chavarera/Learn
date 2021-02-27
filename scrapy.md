@@ -1,7 +1,6 @@
 # Scrapy
 Official documentaion : [Here](https://docs.scrapy.org)
 
-
 ## Week 1:
 - Basic
   - python(large no of resoures available)
