@@ -1,5 +1,7 @@
 # Kafka
 
+Using confluent kafka platform  [confluent-platform](https://docs.confluent.io/)
+
 ## Installation
 
 
