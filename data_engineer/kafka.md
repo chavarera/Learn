@@ -59,3 +59,8 @@ zookeeper.connect=localhost:2181
 ```
 ./bin/kafka-topics --create --bootstrap-server localhost:9092 --topic myTopic --partitions 3 --replication-factor 1
 ```
+
+2. Describe topic 
+```
+./bin/kafka-topics --describe --bootstrap-server localhost:9092 --topic myTopic
+```
