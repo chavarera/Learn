@@ -52,3 +52,10 @@ zookeeper.connect=localhost:2181
       ```
       ./bin/kafka-server-start ./etc/kafka/server.properties
       ```
+      
+## Operations
+### Topic level Operations
+1. Create topic with 3 partion and 1 replication factor
+```
+./bin/kafka-topics --create --bootstrap-server localhost:9092 --topic myTopic --partitions 3 --replication-factor 1
+```
