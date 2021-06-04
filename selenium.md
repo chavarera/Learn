@@ -6,7 +6,7 @@ Requirements for selenium-tools
 
 - [ ] manage multiple drivers
 - [ ] choose appropriate driver
-- [ ] url visits
+- [ ] url handeling(get,currenturl,parseurl)
 - [ ] create a driver object with customized options
 - [ ] take full screenshot(full,elementwise),window.print 
 - [ ] validate a driver session object
@@ -15,15 +15,17 @@ Requirements for selenium-tools
 - [ ] horizontal and vertical scrolling
 - [ ] easily integrate in any script for scraping
 - [ ] universal exception handler
+- [ ] manage pageloadtimeout and implicitwait
 - [ ] manage sessions for transfering cookies to requests,scrapy or other scraping frameworks
 - [ ] executing javascript codes.
 - [ ] saving html source code or rendered pages
 - [ ] Handling alerts and pop-ups
 - [ ] filling input forms
 - [ ] switching windows,tabs,frames
+- [ ] handling element state with is enabled 
 - [ ] pageinfo extractor(such as title)
 - [ ] finding elements with different type of locators
-- [ ] handling paginations with saving current state and reuse that state again
+- [ ] handle navigations navigate() + forward() + back()
 - [ ] adding universal login functionality with forms
 - [ ] windows related functions(maximize,minimize and much more)  
 - [ ] Mouse and keyboard actions
