@@ -31,3 +31,4 @@ Requirements for selenium-tools
 - [ ] cross platform testing (windows,linux)
 - [ ] connecting selenium frameworks(phantomjs and many more)
 - [ ] extracting elements all available properties and attributes(name,id,text,class and others)
+- [ ] multithreading scaling selenium performance(if possible)
