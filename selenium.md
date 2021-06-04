@@ -21,6 +21,7 @@ Requirements for selenium-tools
 - [ ] saving html source code or rendered pages
 - [ ] Handling alerts and pop-ups
 - [ ] filling input forms
+- [ ] Extracting forms data or create coomplete dom hierarchy for extraction(assign them uniue identifiers in funny way 😄 so we caan use them while parsing data) or simply convert dom to json structure
 - [ ] switching windows,tabs,frames
 - [ ] handling element state with is enabled 
 - [ ] pageinfo extractor(such as title)
